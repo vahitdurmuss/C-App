@@ -1,0 +1,28 @@
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.exe.config
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.csprojResolveAssemblyReference.cache
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.Form1.resources
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.Properties.Resources.resources
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.csproj.GenerateResource.Cache
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.exe
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.pdb
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\Oracle.DataAccess.dll
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.exe
+c:\users\vahit.durmus\documents\visual studio 2013\Projects\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.pdb
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.exe.config
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.exe
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.pdb
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.exe
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.pdb
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.csprojResolveAssemblyReference.cache
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.Form1.resources
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.Properties.Resources.resources
+C:\Users\vahit.durmus\Desktop\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.csproj.GenerateResource.Cache
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.exe.config
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.exe
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.pdb
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.exe
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\bin\Debug\WEBSOCKETBILDIRIM_U2.pdb
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.csprojResolveAssemblyReference.cache
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.Properties.Resources.resources
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.csproj.GenerateResource.Cache
+C:\Users\vahit.durmus\Desktop\working folders\new\WEB_SOCKET\WEBSOCKETBILDIRIM_U2\WEBSOCKETBILDIRIM_U2\obj\Debug\WEBSOCKETBILDIRIM_U2.ServerForm.resources
